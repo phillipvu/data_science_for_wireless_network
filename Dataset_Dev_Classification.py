@@ -1,7 +1,6 @@
 '''
-Created on Jul 27, 2015
 
-@author: mkulin
+@author: pvu
 This file creates the training dataset for Weka by adding the header naming row and modifying the class labels from numeric to nominal values
 '''
 import csv
